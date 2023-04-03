@@ -1,0 +1,29 @@
+
+body{
+    background-color: rgb(43, 226, 168);
+}
+*{
+    margin: 0;
+}
+
+.timer__controls{
+display: flex;
+justify-content: space-between;
+    width: 100%;
+
+}
+
+button{
+    width: 100%;
+}
+
+#custom{
+    padding-top: 30%;
+    text-align: center;
+
+}
+.display{
+padding-top: 40%;
+text-align: center;
+font-size: 40px;
+}
